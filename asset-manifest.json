@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/robothon/static/css/main.349d7184.css",
+    "main.js": "/robothon/static/js/main.67601b5f.js",
+    "static/js/787.aab1a298.chunk.js": "/robothon/static/js/787.aab1a298.chunk.js",
+    "static/media/SEGA.woff": "/robothon/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/robothon/index.html",
+    "main.349d7184.css.map": "/robothon/static/css/main.349d7184.css.map",
+    "main.67601b5f.js.map": "/robothon/static/js/main.67601b5f.js.map",
+    "787.aab1a298.chunk.js.map": "/robothon/static/js/787.aab1a298.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.349d7184.css",
+    "static/js/main.67601b5f.js"
+  ]
+}
