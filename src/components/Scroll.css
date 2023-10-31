@@ -1,11 +1,10 @@
 .scr{
     overflow-y: scroll;
     height: 500px;
-    /* width: 50%;  50% of the parent element */
-    /* border: 5px solid black;  */
     scrollbar-width: thin;
 }
-/* div{} gare galti coz children cardlist harumani ta div hunxan so sabma css lagauxa so be more specific  */
+
+
 #scrollbar2::-webkit-scrollbar {
     width: 12px;
 }

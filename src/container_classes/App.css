@@ -4,7 +4,6 @@
     font-weight: normal;
     src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
     }
-/* now yo sega font kunai pani element ma use garna pare we can access it just by calling font-family,  mero_saga_font, yo nam maile afai custom deko, its due to @fontface feature */
 
 h1{
     font-family: 'mero_sega_font';
